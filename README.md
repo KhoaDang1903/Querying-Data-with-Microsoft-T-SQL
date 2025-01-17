@@ -1,1 +1,1 @@
-```Data querying, filtering, JOIN operations, data transformation, and aggregate functions to efficiently analyze and manage relational databases.```
+```SQLQuery: Data querying, filtering, JOIN operations, data transformation, and aggregate functions to efficiently analyze and manage relational databases.```
