@@ -43,3 +43,25 @@ Products are grouped into **clusters** based on quantity and revenue, making it 
 
 ##  Key Influencers & Top Segments
 The **Key Influencers** feature identifies factors that significantly impact high revenue. Meanwhile, the **Top Segments** tool categorizes customers into **four segments** based on average revenue, enabling a more targeted approach to customer engagement.
+# The dataset I used includes:
+
+1. **Dataset:** [Dataset](https://drive.google.com/drive/folders/19_LGryVTOT9g75ZB59dYx-pt-EJF3DSi?usp=sharing)
+
+2. **SQL Server Credentials**
+
+- **Server:** `sql-st.datapot.edu.vn`  
+- **User:** `datapot_student`  
+- **Password:** `datapot@mspartner`
+
+### Expand the Database "AdventureWorksDW2020"
+
+Select the following tables by clicking the checkbox next to each table name:
+
+- **DimEmployee**  
+- **DimEmployeeSalesTerritory**  
+- **DimProduct**  
+- **DimReseller**  
+- **DimSalesTerritory**  
+- **FactResellerSales**
+
+
